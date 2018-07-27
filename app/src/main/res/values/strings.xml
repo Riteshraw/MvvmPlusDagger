@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyDaggerApplication</string>
+
+    <string name="hint_mobile">Mobile Number</string>
+
+    <string name="hint_otp">OTP</string>
+    <string name="hint_password_otp">PASSWRD OR OTP</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_up_text">Create an account with the new phone number</string>
+
+    <string name="login">LOGIN</string>
+    <string name="login_text">Enter your mobile number to proceed</string>
+
+    <string name="Otp">VERIFY DETAILS</string>
+    <string name="Otp_text">OTP sent to your number</string>
+
+    <string name="google_fit">GoogleFitPermission</string>
+    <string name="google_fit_text">Give permission</string>
+
+    <string name="tAndC">I aggree with </string>
+    <string name="tAndC2">terms &amp; conditions</string>
+
+    <string name="resend_OTP">Send OTP Again</string>
+    <string name="hint_password">Set Password</string>
+
+    <string name="google_fit_tc">By continuing, you allow this app and Google to use  your information in accordance with their
+        respective terms of services and privacy policies</string>
+</resources>
